@@ -1,4 +1,4 @@
-# Speech-to-text-processing-in-Medical-field-
+# Speech-to-text-processing-in-Medical-field
 
 This is an final project report for the course work of Natural Language Processing for M. Sc. Computer Science under Dr. Trabelsi.
 
